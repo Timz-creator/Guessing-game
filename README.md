@@ -1,6 +1,6 @@
 # Guessing Game
 
-![Project Banner](./banner.png)
+![Project Banner](./Guessinggame.png)
 
 A simple guessing game built using JavaScript. The game challenges players to guess a randomly generated number within a specificed range. It provides feedback to players, indicating whether their guess too low or too high. Test your guessing skills and see if you can guess the correct number!
 
